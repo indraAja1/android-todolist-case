@@ -1,5 +1,5 @@
 APP_PACKAGE = "com.simplemobiletools.notes.pro"
-
+# day 2
 class selectors:
     class material_toolbar: 
         search_tool = f'{APP_PACKAGE}:id/open_search'
