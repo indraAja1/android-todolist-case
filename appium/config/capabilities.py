@@ -1,5 +1,5 @@
 from appium.options.android import UiAutomator2Options
-
+# Day 2
 def get_appium_options():
     options = UiAutomator2Options()
     options.platform_name = 'Android'
