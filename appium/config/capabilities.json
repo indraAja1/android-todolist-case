@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "deviceName": "sdk_gphone64_x86_64",
+  "udid": "emulator-5554",
+  "automationName": "UiAutomator2",
+  "appPackage": "com.simplemobiletools.notes.pro",
+  "appActivity": "com.simplemobiletools.notes.pro.activities.MainActivity",
+  "noReset":"True"
+}
